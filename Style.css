@@ -1,0 +1,35 @@
+
+body{
+    color: darkslategrey; 
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+#Pics_of_travels{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+#Pics_of_travels img{
+    width: 11em;
+    height: 15em;
+    display: flex;
+   justify-content: center;
+    padding: 1em;
+
+}
+
+a {
+    background-color: whitesmoke;
+    padding: 10px 30px;
+}
