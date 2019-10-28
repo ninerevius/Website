@@ -187,3 +187,7 @@ form {
 ul {
     list-style: none;
 }
+
+iframe {
+    align: center;
+}
