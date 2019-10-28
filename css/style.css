@@ -1,9 +1,15 @@
 
 body{
-    color: darkslategray; background-color: mintcream; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslategray; background-color: rgb(186, 243, 229); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 
 header {
-    backdrop-filter: purple;
+    backdrop-filter: ;
+}
+
+img {
+    width: 20em;
+    heigt: 60em;
+align: right;
 }

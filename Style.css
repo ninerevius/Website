@@ -1,9 +1,189 @@
 
 body{
-    color: darkolivegreen; background-color:mintcream; font-family: Verdana, sans-serif;
+    color: black;
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 
-header {
-    backdrop-filter: purple;
+h3{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+#Pics_of_Mallorca{
+    display: flex;   
+    justify-content:right
+    list-style: none;
+}
+
+#Pics_of_Mallorca img{
+    width: 11em;
+    height: 15em;
+    display: flex;
+   justify-content: center;
+    padding: 1em;
+    opacity: 1.0;
+}
+
+#Pics_of_travels{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+#Pics_of_travels img{
+    width: 11em;
+    height: 15em;
+    display: flex;
+   justify-content: center;
+    padding: 1em;
+
+}
+
+a {
+    color: white;
+    padding: 10px 30px;
+    text-decoration-line: none;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:visited {
+    color: whitesmoke;
+}
+
+
+
+article {
+    background-color: whitesmoke;
+    text-align: left;
+    opacity: 0.8em;
+}
+
+#idtenerife {
+    background-image: url("fotosvoorweb/IMG_3363.jpg");
+    background-color: #cccccc;
+    background-size: 100% 150%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+#idtenerife h1{
+    text-align: left;
+    color: black;
+}
+
+#idtenerife article {
+    background-color: whitesmoke;
+    opacity: 0.9;
+}
+
+#idmallorca {
+    background-image: url("fotosvoorweb/IMG_3383.jpg");
+    background-color: #cccccc;
+    background-size: 100% 150%;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+#idmallorca article {
+    background-color: whitesmoke;
+    opacity: 0.8;
+}
+
+#idmallorca h1 {
+    color: black;
+}
+
+#idpalmtrees {
+    width: 35em;
+    height: 70em;
+    opacity: 0em;
+}
+
+button {
+    color: whitesmoke;
+    background-color: black;
+    padding: none;
+}
+
+#idlosgig {
+    width: 55em;
+    height: 30em; 
+    box-align: right;
+    opacity: 0em;
+}
+
+#idpizzabeach {
+    width: 19em;
+    height: 24em;
+    justify-content: left;
+    opacity: 0em; 
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color:whitesmoke;
+    padding: 3em;
+    
+
+}
+
+form {
+    text-align: left;
+}
+
+#idparis {
+        background-image: url("fotosvoorweb/IMG_2087.jpg");
+        background-color: #cccccc;
+        background-size: 100% 150%;
+        background-repeat: no-repeat;
+        background-position-x: center;
+}
+
+#idparis footer {
+    opacity: 0.8em;
+}
+
+#idparis article {
+    opacity: 0.9em;
+}
+
+#idbalkon {
+    width: 19em;
+    height: 24em;
+    justify-content: left;
+    opacity: 0em; 
+}
+
+#ideiffel {
+    width: 19em;
+    height: 24em;
+    justify-content: left;
+    opacity: 0em; 
+}
+
+#idriver {
+    width: 19em;
+    height: 24em;
+    justify-content: left;
+    opacity: 0em;  
+}
+
+#idlouvre {
+    width: 19em;
+    height: 24em;
+    justify-content: left;
+    opacity: 0em; 
+}
+ 
+ul {
+    list-style: none;
 }
