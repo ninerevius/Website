@@ -63,7 +63,7 @@ a:visited {
 article {
     background-color: whitesmoke;
     text-align: left;
-    opacity: 0.8em;
+    opacity: 80%;
 }
 
 #idtenerife {
@@ -114,15 +114,15 @@ button {
 }
 
 #idlosgig {
-    width: 55em;
+    width: 50em;
     height: 30em; 
     box-align: right;
     opacity: 0em;
 }
 
 #idpizzabeach {
-    width: 19em;
-    height: 24em;
+    width: 15em;
+    height: 20em;
     justify-content: left;
     opacity: 0em; 
 }
@@ -141,11 +141,12 @@ form {
 }
 
 #idparis {
-        background-image: url("fotosvoorweb/IMG_2087.jpg");
+        background-image: url("fotosvoorweb/IMG_2100.jpg");
         background-color: #cccccc;
         background-size: 100% 150%;
         background-repeat: no-repeat;
         background-position-x: center;
+        opacity: 0.8em;
 }
 
 #idparis footer {
@@ -153,7 +154,7 @@ form {
 }
 
 #idparis article {
-    opacity: 0.9em;
+    opacity: 8em;
 }
 
 #idbalkon {
@@ -186,8 +187,4 @@ form {
  
 ul {
     list-style: none;
-}
-
-iframe {
-    align: center;
 }
